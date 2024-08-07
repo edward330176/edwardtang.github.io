@@ -1,9 +1,12 @@
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
+header:
+  image: /assets/img/header.JPG
+  
 author:
   name: "Edward Tang"
   avatar: /assets/img/IMG_300.png
-  bio: "An Aspiring Data Scientist"
+  bio: "A data scientist who loves snowboarding, nature, books, searching for meaning in life..."
   links:
     - label: "GitHub"
       icon: "fab fa-github"
