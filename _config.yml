@@ -1,10 +1,16 @@
+title: "Edward Tang's Portfolio"
+description: "This is the homepage of my portfolio website. Here you'll find my projects, blog posts, and more."
+logo: /assets/img/IMG_300.png
+
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 author:
-  name: Edward Tang
+  name: "Edward Tang"
   avatar: /assets/img/IMG_300.png
+  bio: "Not Yet"
+  email: "your-email@example.com"
   links:
-    - label: "Github"
+    - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/edward330176"
     - label: "LinkedIn"
@@ -13,3 +19,4 @@ author:
 
 plugins:
   - jekyll-include-cache
+
