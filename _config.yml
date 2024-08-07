@@ -1,14 +1,9 @@
-title: "Edward Tang's Portfolio"
-description: "This is the homepage of my portfolio website. Here you'll find my projects, blog posts, and more."
-logo: /assets/img/IMG_300.png
-
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 author:
   name: "Edward Tang"
   avatar: /assets/img/IMG_300.png
-  bio: "Not Yet"
-  email: "your-email@example.com"
+  bio: "An Aspiring Data Scientist"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
@@ -16,6 +11,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/edward-tang-m-s-66a941201/"
+    - label: "Medium"
+      icon: "fa-brands fa-medium"
+      url: "https://medium.com/@edwardlongtang"
 
 plugins:
   - jekyll-include-cache
