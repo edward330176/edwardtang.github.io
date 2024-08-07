@@ -1,7 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 header:
-  image: /assets/img/header.JPG
+  image: /assets/img/header.jpg
   
 author:
   name: "Edward Tang"
