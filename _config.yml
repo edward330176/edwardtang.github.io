@@ -1,7 +1,11 @@
 title: "Edward Tang"
 logo: /assets/img/IMG_300.png
-theme: minimal-mistakes-jekyll
+
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 author:
-name: Edward Tang
-avatar: /assets/img/IMG_300.png
+  name: Edward Tang
+  avatar: /assets/img/IMG_300.png
+
+plugins:
+  - jekyll-include-cache
