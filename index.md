@@ -1,6 +1,6 @@
 ---
 layout: home
 author_profile: true
-header : true
 ---
-
+header:
+  image: /assets/img/header.jpg
