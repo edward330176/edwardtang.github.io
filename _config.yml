@@ -3,6 +3,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 header:
   image: /assets/img/header.jpg
 
+title: 
 logo: /assets/img/logo.png
 
 include: "_pages"
@@ -35,5 +36,36 @@ author:
       url: "https://medium.com/@edwardlongtang"
 
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
