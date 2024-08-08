@@ -1,8 +1,5 @@
 ---
-layout: home
-title: Home
-author_profile: true
-permalink: /
-header:
-  image: /assets/img/header.jpg
+title: "About"
+redirect_to:
+  - https://edward330176.github.io/portfolio/about/
 ---
