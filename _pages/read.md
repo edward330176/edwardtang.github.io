@@ -2,5 +2,5 @@
 title: "Reading List"
 permalink: /read/
 header:
-image: /assets/img/header.jpg
+  image: /assets/img/header.jpg
 ---
