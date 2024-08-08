@@ -10,6 +10,11 @@ masthead_title: " "
 include: 
   - _pages
 
+collections:
+  pages:
+    output: true
+    permalink: /:title/
+
 atom_feed:
   hide: true
 
