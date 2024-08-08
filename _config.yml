@@ -8,18 +8,6 @@ logo: /assets/img/logo.png
 
 include: "_pages"
 
-navigation:
-  # - title: "About"
-  #   url: "/about/"
-  - title: "Project"
-    url: "/project/"
-  # - title: "Blog"
-  #   url: "/blog/"
-  # - title: "Book"
-  #   url: "/book/"
-  # - title: "Resume"
-  #   url: "/resume/"
-
 author:
   name: "Edward Tang"
   avatar: /assets/img/IMG_300.png
