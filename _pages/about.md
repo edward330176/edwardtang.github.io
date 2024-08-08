@@ -5,7 +5,7 @@ header:
   image: /assets/img/header.jpg
 ---
 
-<img src="https://edward330176.github.io/assets/imag/IMG_301.png" width="250">{: .align-center}
+<img src="https://edward330176.github.io/assets/img/IMG_301.png" width="250">{: .align-center}
 
 Hello, and welcome to my page! My name is Edward Tang. I am an aspiring data scientist with a passion for using data to uplift lives!
 
