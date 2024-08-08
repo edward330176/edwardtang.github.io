@@ -3,8 +3,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 header:
   image: /assets/img/header.jpg
 
-# title: Edward Tang
+title: Edward Tang
 logo: /assets/img/logo.png
+masthead_title: " "
 
 include: 
   - _pages
