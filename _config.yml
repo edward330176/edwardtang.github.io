@@ -6,16 +6,16 @@ header:
 logo: /assets/img/logo.png
 
 navigation:
-  - title: "About"
-    url: "/about/"
+  # - title: "About"
+  #   url: "/about/"
   - title: "Project"
     url: "/project/"
-  - title: "Blog"
-    url: "/blog/"
-  - title: "Book"
-    url: "/book/"
-  - title: "Resume"
-    url: "/resume/"
+  # - title: "Blog"
+  #   url: "/blog/"
+  # - title: "Book"
+  #   url: "/book/"
+  # - title: "Resume"
+  #   url: "/resume/"
 
 author:
   name: "Edward Tang"
