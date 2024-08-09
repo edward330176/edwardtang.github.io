@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 permalink: /cv/
 toc: true
-toc_label: "Tabel of Contents
+toc_label: "Tabel of Contents"
 toc_sticky: true
 ---
 
