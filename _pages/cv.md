@@ -31,6 +31,7 @@ toc_sticky: true
 ## Research Experience
 ### Research Laboratory
 *Researcher*
+
 *January 2024 - Present, Macau University of Science and Technology*
 
 - Conduct in-depth data analysis using advanced statistical techniques.
@@ -39,6 +40,7 @@ toc_sticky: true
 
 ### Diamond Laboratory
 *Research Assistant*
+
 *May 2021 - January 2022, University of Utah*
 
 - Conduct interviews with participants and collecting their blood samples.
