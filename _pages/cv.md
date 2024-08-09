@@ -12,17 +12,17 @@ toc_sticky: true
 
 ## Education
 ### University of Denver
-Master of Science, Data Science (June 2024)
+*Master of Science in Data Science (2024)*
 - GPA 3.96/4.00
 
 ### University of Utah
-Bachelor of Science, Research and Experimental Psychology (May 2022)
+*Bachelor of Science in Research and Experimental Psychology (2022)*
 - Minor in Chemistry
 - Dean's List (Fall 2020, Spring 2021, Summer 2021, Fall 2021)
 - GPA 3.95/4.00
 
 ### Snow College
-Associate of Science (August 2020)
+*Associate of Science (2020)*
 - Dean's List (Fall 2019, Spring 2020, Summer 2020)
 - GPA 4.00/4.00
 
@@ -31,6 +31,7 @@ Associate of Science (August 2020)
 ## Research Experience
 ### Research Laboratory
 Researcher
+
 January 2024 - Present, Macau University of Science and Technology
 - Conduct in-depth data analysis using advanced statistical techniques.
 - Initiate data collection and maintain data equity to ensure high-quality inputs.
@@ -38,6 +39,7 @@ January 2024 - Present, Macau University of Science and Technology
 
 ### Diamond Laboratory
 Research Assistant
+
 May 2021 - January 2022, University of Utah
 - Conduct interviews with participants and collecting their blood samples.
 - Set up EEG devices and monitor signals from participants.
@@ -46,16 +48,19 @@ May 2021 - January 2022, University of Utah
 ## Teaching/Volunteering Experience
 ### Science in the Parks
 Teaching Instructor
+
 March 2021 - August 2021, Salt Lake City, Utah
 - Facilitate activities and science experiments to teach elementary students about scientific laws.
 
 ### Mentoring Club
 Mentor
+
 March 2021 - December 2022, Salt Lake City, Utah
 - Offer suuport and guidance to high school students to help them navigate their academic challenges.
 
 ### Snow College
 Math Tutor and Grader
+
 September 2019 - August 2020, Ephraim, Utah
 - Help students with homework problems and prepare for exams.
 - Grade assignments for statsitics and algebra's classes.
@@ -65,6 +70,7 @@ September 2019 - August 2020, Ephraim, Utah
 ## Leadership Experience
 ### Odyssey House
 Client Mentor
+
 May 2021 - December 2021, Salt Lake City, Utah
 - Run life skill groups with clients.
 - Regular check in with clients to create safe environment.
@@ -73,6 +79,7 @@ May 2021 - December 2021, Salt Lake City, Utah
 
 ### The Church of Jesus Christ of Latter-day Saints
 Missionary Zone Leader
+
 January 2017 - January 2019, Toronto, Ontario
 - Supervies a group of twenty missionaries.
 - Provide insight and direction for the whole zone.
