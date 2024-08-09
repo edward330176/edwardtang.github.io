@@ -30,17 +30,17 @@ toc_sticky: true
 
 ## Research Experience
 ### Research Laboratory
-Researcher
+*Researcher*
+*January 2024 - Present, Macau University of Science and Technology*
 
-January 2024 - Present, Macau University of Science and Technology
 - Conduct in-depth data analysis using advanced statistical techniques.
 - Initiate data collection and maintain data equity to ensure high-quality inputs.
 - Employ machine learning and deep learning methods to generate insights on user-generated content.
 
 ### Diamond Laboratory
-Research Assistant
+*Research Assistant*
+*May 2021 - January 2022, University of Utah*
 
-May 2021 - January 2022, University of Utah
 - Conduct interviews with participants and collecting their blood samples.
 - Set up EEG devices and monitor signals from participants.
 
