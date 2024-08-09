@@ -9,6 +9,7 @@ toc_sticky: true
 ## Contact
 - Email: [edward330176@gmail.com]()
 
+
 ## Education
 ### University of Denver
 Master of Science, Data Science (June 2024)
@@ -25,6 +26,8 @@ Associate of Science (August 2020)
 - Dean's List (Fall 2019, Spring 2020, Summer 2020)
 - GPA 4.00/4.00
 
+
+
 ## Research Experience
 ### Research Laboratory
 Researcher
@@ -38,6 +41,7 @@ Research Assistant
 May 2021 - January 2022, University of Utah
 - Conduct interviews with participants and collecting their blood samples.
 - Set up EEG devices and monitor signals from participants.
+
 
 ## Teaching/Volunteering Experience
 ### Science in the Parks
@@ -56,6 +60,8 @@ September 2019 - August 2020, Ephraim, Utah
 - Help students with homework problems and prepare for exams.
 - Grade assignments for statsitics and algebra's classes.
 
+
+
 ## Leadership Experience
 ### Odyssey House
 Client Mentor
@@ -73,10 +79,14 @@ January 2017 - January 2019, Toronto, Ontario
 - Lead meetings and activities.
 - Delegate duties to different missionaries within the zone.
 
+
+
 ## Honors/Awards
 - Denver Director's Scholarship (2023)
 - Utah HOSA Finalist 1st in Medical Math (2021)
 - Utah Global Academic Scholarship (2020)
+
+
 
 ## Technical Skills
 - Programming Languages: Python, R
@@ -84,6 +94,7 @@ January 2017 - January 2019, Toronto, Ontario
 - Database Management: MySQL, MongoDB
 - Visualization Tools: Matplotlib, Plotly, Seaborn
 - Advanced Statistical Methods: ANOVA, Logistic, Poisson, Survival Analysis, Bayesian
+
 
 ## Soft Skills
 - Fluent in English, Mandarin, and Cantonese
